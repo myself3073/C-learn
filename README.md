@@ -1,2 +1,2 @@
-# C-learn
+# 学习
 learn the C/C++
